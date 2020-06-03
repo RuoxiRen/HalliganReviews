@@ -5,6 +5,6 @@
 - [ ] Finish DOM
 
 ## New function
-- [] bookmark classes
-- [] bookmark reviews
-- [] suggetions on classes
+- [ ] bookmark classes
+- [ ] bookmark reviews
+- [x] suggetions on classes
