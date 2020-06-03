@@ -7,4 +7,4 @@
 ## New function
 - [ ] bookmark classes
 - [ ] bookmark reviews
-- [x] suggetions on classes
+- [ ] suggetions on classes
